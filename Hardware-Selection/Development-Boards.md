@@ -11,7 +11,7 @@ that I wanted my board to be equipped with. Here is what I came up with:
 - Max $450
 
 Although not all of these are necessary for my current project, I wanted to include some "nice to haves" in my list that may become useful in future projects. Upon my search, I noticed that wireless
-communication in FPGA dev boards were reletavely uncommon, so I found narrowed my search to dev boards with wireless communication as this was my limiting factor. Below is a list of boards I found.
+communication in FPGA dev boards were reletavely uncommon, so I narrowed my search to dev boards with wireless communication as this was my limiting factor. Below is a list of boards I found.
 
 ### [Real Digital Blackboard](https://www.realdigital.org/hardware/blackboard)
 ![Real Digital Blackboard](../images/RealDigitalBlackboard.png)
