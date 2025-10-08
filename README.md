@@ -26,4 +26,4 @@ I am making and embedded system to sense environmental sounds and map its amplit
 - End Product Hardware Integration
 
 ## Current Stage
-I have selected the board, but am still doing research for the end product hardware, so I am working in both stages 1 and 3.
+I have selected the board, but am still doing research for the end product hardware, so I am working in both stages 1 and 2.
