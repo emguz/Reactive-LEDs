@@ -5,7 +5,7 @@ Giving LEDs the ability to dance!
 I am making and embedded system to sense environmental sounds and map its amplitude and frequency to the intensity and color of LEDs. Here is my initial plan for completing this project.
 
 ### 1. Hardware Selection
-- [Dev Board Selection](Hardware-Selection/Development-Boards)
+- [Dev Board Selection](Hardware-Selection/Development-Boards.md)
 
 ### 2. Board Familiarization
 - Stopwatch
