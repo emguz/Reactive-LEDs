@@ -13,7 +13,7 @@ that I wanted my board to be equipped with. Here is what I came up with:
 Although not all of these are necessary for my current project, I wanted to include some "nice to haves" in my list that may become useful in future projects. Upon my search, I noticed that wireless
 communication in FPGA dev boards were reletavely uncommon, so I narrowed my search to dev boards with wireless communication as this was my limiting factor. Below is a list of boards I found.
 
-### [Real Digital Blackboard](https://www.realdigital.org/hardware/blackboard)
+### [1. Real Digital Blackboard](https://www.realdigital.org/hardware/blackboard)
 ![Real Digital Blackboard](../images/RealDigitalBlackboard.png)
 
 - $184 ($149 for students)
@@ -22,14 +22,14 @@ communication in FPGA dev boards were reletavely uncommon, so I narrowed my sear
 - Wifi and Bluetooth (No BLE)
 - Microphone
 
-### [EDGE ZYNQ SoC FPGA Dev Board](https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board/)
+### [2. EDGE ZYNQ SoC FPGA Dev Board](https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board/)
 ![Edge ZYNQ](../images/EdgeSYNQSoC.png)
 
 - $245
 - Two ARM Cortex A9 in ZYNQ FPGA
 - JTAG Programming
 
-### [Titanium Ti375 C529 Dev Kit](https://www.efinixinc.com/products-devkits-titaniumti375c529.html)
+### [3. Titanium Ti375 C529 Dev Kit](https://www.efinixinc.com/products-devkits-titaniumti375c529.html)
 ![Titanium Dev Kit](../images/TitaniumDevBoard.png)
 
 - $450
@@ -37,7 +37,7 @@ communication in FPGA dev boards were reletavely uncommon, so I narrowed my sear
 - Embedded System Design
 - AI Applications
 
-### [Zybo Z7: Zynq-7000 ARM/FPGA SoC Dev Board](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/)
+### [4. Zybo Z7: Zynq-7000 ARM/FPGA SoC Dev Board](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/)
 ![ZYBO Z7](../images/ZyboZ7.png)
 
 - $400 ($300 Zybo Z7-10 Preferred)
@@ -45,7 +45,7 @@ communication in FPGA dev boards were reletavely uncommon, so I narrowed my sear
 - Include ARM Cortex-A9 microcontroller
 - I2C, UART, SPI, CAN
 
-### [Nexys A7 AMD 7 FPGA Trainer Board](https://digilent.com/shop/nexys-a7-amd-artix-7-fpga-trainer-board-recommended-for-ece-curriculum/)
+### [5. Nexys A7 AMD 7 FPGA Trainer Board](https://digilent.com/shop/nexys-a7-amd-artix-7-fpga-trainer-board-recommended-for-ece-curriculum/)
 ![Nexys A7](../images/NexysA7.png)
 
 - $350
