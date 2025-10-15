@@ -1,4 +1,4 @@
-# Reactive LEDs
+# LEDancer
 Giving LEDs the ability to dance!
 
 ## Overview
